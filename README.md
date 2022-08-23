@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thulio</h1>
 <h3 align="center">Fullstack Developer always improving my knowledge with Javascript (NodeJs / React / React-Native) technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoostah" alt="yoostah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoostah&column=3&margin-w=15&margin-h=15" alt="yoostah" /></a> </p>
 
 - 🔭 I’m currently working on **Avios Exchange product**
 
